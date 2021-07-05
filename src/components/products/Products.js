@@ -3,7 +3,6 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { setPorducts } from './productsSlice';
-import Loader from "react-loader-spinner";
 import "./Products.css";
 
 
